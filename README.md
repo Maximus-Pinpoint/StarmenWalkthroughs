@@ -1,5 +1,5 @@
 # StarmenWalkthroughs
-The vamp for the official Starmen.Net walkthroughs.
+The vamp for the "official Starmen.Net walkthroughs":https://walkthrough.starmen.net/.
 
 After EmperorScarlet's succesful efforts to revive PUC, the head admin said it's in the site's best interest to entirely redo the walkthroughs. Here is where I'll host the HTMLs for the three new walkthroughs, so we can all work on it together.
 
