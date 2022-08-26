@@ -1,0 +1,8 @@
+@font-face {
+  font-family: Apple Kid;
+  src: url(fonts/apple.ttf);
+}
+
+p {
+  font-family: Apple Kid;
+}
