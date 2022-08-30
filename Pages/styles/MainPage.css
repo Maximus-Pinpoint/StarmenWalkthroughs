@@ -1,6 +1,11 @@
 @font-face {
   font-family: Apple Kid;
-  src: url(fonts/apple.ttf);
+  src: url(/fonts/apple.ttf);
+}
+
+html {
+  font-family: Apple Kid;
+  background-color: red;
 }
 
 p {
